@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm [Eva]!
 
-<!--
-**Emagmunioz/Emagmunioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate about [decoration and development].
+
 
 Here are some ideas to get you started:
 
