@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   ![Cortinas-Verticales-Modelo-Destiny-24](https://github.com/user-attachments/assets/511082a6-66bd-43a0-a73b-a17fdc903e2d)
 
   
+![image](https://github.com/user-attachments/assets/6e1984e0-a3e0-464f-b2b0-25edcb70bb97)  https://www.linkedin.com/in/eva-m-g-munioz/
 
   
 
