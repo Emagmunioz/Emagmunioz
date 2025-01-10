@@ -1,5 +1,8 @@
 👋 Hi, I'm Eva María!
-link:https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm05NzI3dDRhY2w4YnQ3bXVlMmJzbjlvZGUyajV6Y21hYjhoZXNkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bL3m2VeM0E9dqcgpa1/giphy.webp
+
+
+![odenador](https://github.com/user-attachments/assets/769971bf-fcc0-4f00-bbd1-65dccf5920d5)
+
 💻 About Me
 I am a passionate developer transitioning from a successful career in interior design and entrepreneurship. With years of experience managing my own business and working closely with clients, I bring a unique blend of creativity, problem-solving, and communication skills to the tech world. I am currently expanding my knowledge in frontend/backend/fullstack development through an intensive bootcamp.
 
