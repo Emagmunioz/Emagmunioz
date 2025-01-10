@@ -1,25 +1,21 @@
-## Hi there 👋 I'm [Eva]!
+👋 Hi, I'm Eva María!
+link:https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm05NzI3dDRhY2w4YnQ3bXVlMmJzbjlvZGUyajV6Y21hYjhoZXNkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bL3m2VeM0E9dqcgpa1/giphy.webp
+💻 About Me
+I am a passionate developer transitioning from a successful career in interior design and entrepreneurship. With years of experience managing my own business and working closely with clients, I bring a unique blend of creativity, problem-solving, and communication skills to the tech world. I am currently expanding my knowledge in frontend/backend/fullstack development through an intensive bootcamp.
 
-Welcome to my GitHub profile! I'm a passionate about [decoration and development].
+My goal is to leverage my design expertise and technical skills to create impactful, user-friendly digital experiences.
 
+🚀 Current Tech Stack
+Languages: HTML, CSS, JavaScript
+Frameworks/Libraries: React, Node.js.
+Tools: Git, GitHub, Figma, VSCode.
+Database: MySQL.
+I am always eager to learn and explore new technologies that challenge me to grow as a developer.
 
-Here are some ideas to get you started:
+📬 Contact
+Email: emagmunioz@gmail.com
+LinkedIn:linkedin.com/in/eva-m-g-munioz/
 
-
-- 🌱 I’m currently learning BootCamp Factoria f5
-
-- 🤔 I’m looking for help with languages: JavaScript!
-
-  ## Technologies & Tools
-  -**Languages**: html, css, javaScript
-  -**Frameworks**: React
-  -**Tools**: Git
-
-
-  ![Cortinas-Verticales-Modelo-Destiny-24](https://github.com/user-attachments/assets/511082a6-66bd-43a0-a73b-a17fdc903e2d)
-
-  
-![image](https://github.com/user-attachments/assets/6e1984e0-a3e0-464f-b2b0-25edcb70bb97)  https://www.linkedin.com/in/eva-m-g-munioz/
 
   
 
