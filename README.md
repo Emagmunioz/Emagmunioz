@@ -11,13 +11,16 @@ My goal is to leverage my design expertise and technical skills to create impact
 
 🚀 Current Tech Stack
 
+
 Languages: HTML, CSS, JavaScript
 Frameworks/Libraries: React, Node.js.
 Tools: Git, GitHub, Figma, VSCode.
 Database: MySQL.
+
 I am always eager to learn and explore new technologies that challenge me to grow as a developer.
 
 📬 Contact
+
 Email: emagmunioz@gmail.com
 LinkedIn:linkedin.com/in/eva-m-g-munioz/
 
