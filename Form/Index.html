@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeeksforGeeks Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>GeeksforGeeks Survey Form</h1>
+    <form id="form">
+        <div class="formulario">
+            <label for="name" id="label-name">Name</label>
+            <input type="text" id="name" placeholder="Enter your name" />
+        </div>
+        
+        <div class="formulario">
+            <label for="email" id="label-email">Email</label>
+            <input type="email" id="email" placeholder="Enter your email" />
+        </div>
+
+        <div class="formulario">
+            <label for="age" id="label-age">Age</label>
+            <input type="text" id="age" placeholder="Enter your age" />
+        </div>
+
+        <div class="formulario">
+            <label for="role" id="label-role">Which option best describes you?</label>
+            <select name="role" id="role">
+                <option value="student">Student</option>
+                <option value="intern">Intern</option>
+                <option value="professional">Professional</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        <div class="formulario">
+            <label>Would you recommend GeeksforGeeks to a friend?</label>
+            <label for="recommend-Y"><input type="radio" id="recommend-Y" name="recommend" value="Yes">Yes</label>
+            <label for="recommend-N"><input type="radio" id="recommend-N" name="recommend" value="No">No</label>
+            <label for="recommend-M"><input type="radio" id="recommend-M" name="recommend" value="Maybe">Maybe</label>
+        </div>
+
+        <div class="formulario">
+            <label>Languages and Frameworks known <small>(Check all that apply)</small></label>
+            <label for="inp-C"><input type="checkbox" id="inp-C" name="languages" value="C">C</label>
+            <label for="inp-C++"><input type="checkbox" id="inp-C++" name="languages" value="C++">C++</label>
+            <label for="inp-C#"><input type="checkbox" id="inp-C#" name="languages" value="C#">C#</label>
+            <label for="inp-J"><input type="checkbox" id="inp-J" name="languages" value="Java">Java</label>
+            <label for="inp-P"><input type="checkbox" id="inp-P" name="languages" value="Python">Python</label>
+            <label for="inp-Js"><input type="checkbox" id="inp-Js" name="languages" value="JavaScript">JavaScript</label>
+            <label for="inp-R"><input type="checkbox" id="inp-R" name="languages" value="React">React</label>
+            <label for="inp-A"><input type="checkbox" id="inp-A" name="languages" value="Angular">Angular</label>
+            <label for="inp-D"><input type="checkbox" id="inp-D" name="languages" value="Django">Django</label>
+            <label for="inp-S"><input type="checkbox" id="inp-S" name="languages" value="Spring">Spring</label>
+        </div>
+
+        <div class="formulario">
+            <label for="comment">Any comments or suggestions</label>
+            <textarea name="comment" id="comment" placeholder="Enter your comment here"></textarea>
+        </div>
+
+        <button type="submit" value="submit">Submit</button>
+    </form>
+
+    <script src="forms.js"></script>
+</body>
+</html>
