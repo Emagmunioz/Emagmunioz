@@ -1,52 +1,67 @@
-# 🌟 **The Journey from Decoration to Code** 🌟
 
-## 💻 **A Woman Who is going to revolutionize the World**
+# 💻 Eva M. G. Muñoz – Full Stack Developer
 
-In a bold leap of faith, a trailblazing entrepreneur transformed her passion for interior design into a career in programming. Combining creativity and logic, she now develops innovative solutions that bring beauty and functionality to the digital realm. This repository celebrates her inspiring journey and showcases her work.
+> “Antes decoraba espacios. Ahora decoro funciones.”
 
----
+![Expectation vs Reality](./4686175e-9516-419b-b071-00b98a6cf753.png)
 
-### 🚀 **Technologies Used**
+## 🧠 Sobre mí
 
-Below are the key technologies and tools featured in this repository:
+Soy una desarrolladora **Full Stack** con alma de **interiorista** y mente analítica. Mi experiencia va desde la decoración hasta el desarrollo de aplicaciones web en Java, React y PostgreSQL. Refactorizo miedos, serializo aprendizajes y despliego nuevas versiones de mí misma sin downtime.
 
-<div align="center">
-  ![image](https://github.com/user-attachments/assets/92a9b968-1a36-48fa-9560-46d718e856f9)
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" height="50">
-  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL Logo" width="50" height="50">
-</div>
+Actualmente formándome en **Factoría F5** tras más de 1100 horas en batalla con código real. Polimórfica por naturaleza, adaptable por vocación.
 
 ---
 
-### 📬 **Contact**
+## 🚀 Tech Stack
 
-Feel free to reach out for collaboration or inquiries:
+**Back-End:**
+- Java, Spring Boot, JWT, JUnit, Maven, Node.js, Microsoft Entity Framework  
+- MySQL, PostgreSQL, SQLite
 
-- Email: emagmunioz@gmail.com
+**Front-End:**
+- React, JavaScript, TypeScript, HTML, CSS, SASS, Tailwind, Material UI
 
+**Testing & Dev Tools:**
+- Jest, Viteest, Mockito, Git, GitHub, Docker, Jenkins, Postman, Figma
 
-- LinkedIn: (https://www.linkedin.com/in/eva-m-g-munioz/  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20" height="20">
+**Metodologías:**
+- Agile, Scrum, Kanban, Gitflow, Pair Programming
 
----
-
-### 🎨 ** Image**
-<div align="center">
-  
-</div>
-
-A  representation of a computer as a tribute to the seamless blend of art and code.
-![image](https://github.com/user-attachments/assets/47a7513a-8874-407b-bbea-ba89eb306b43)
+**Usabilidad y Accesibilidad:**
+- Buenas prácticas UX/UI, accesibilidad digital, control de errores, diseño centrado en el usuario
 
 ---
 
-#### 🙌 **Join the Journey**
+## 📌 Proyectos Destacados
 
-We invite you to explore, learn, and contribute to this repository, inspired by the story of one woman's courageous shift from decorating physical spaces to coding digital worlds.
+### 🛠 App de Gestión de Instalaciones – [OXON3]
+Desarrollada en Java + PostgreSQL. Transformé un entorno caótico en una solución digital funcional en solo un mes.
 
+### 🌐 Gestión de Delegación – [EABLACK SL]
+Desde el blog hasta las rutas de viaje. Un proyecto 360º gestionado con eficiencia y creatividad.
 
+---
 
+## 🎯 Soft Skills
+
+- Liderazgo y gestión de equipos
+- Resolución de problemas complejos
+- Comunicación efectiva
+- Adaptabilidad en roles multidisciplinares
+- Organización milimétrica
+
+---
+
+## 📫 Contacto
+
+- 📧 [emagmunioz@gmail.com](mailto:emagmunioz@gmail.com)  
+- 📱 +34 684 664 611  
+- 💻 [GitHub](https://github.com/Emagmunioz)  
+- 👔 [LinkedIn](https://www.linkedin.com/in/eva-m-g-munioz/)
+
+---
+
+![Transition](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
+
+¿Quieres saber más? Revisa mi código, mis proyectos y... mis expectativas vs mi realidad arriba 👆😉
