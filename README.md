@@ -11,6 +11,8 @@ In a bold leap of faith, a trailblazing entrepreneur transformed her passion for
 Below are the key technologies and tools featured in this repository:
 
 <div align="center">
+  ![image](https://github.com/user-attachments/assets/92a9b968-1a36-48fa-9560-46d718e856f9)
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" height="50">
