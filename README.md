@@ -3,7 +3,7 @@
 
 > “Antes decoraba espacios. Ahora decoro funciones.”
 
-![Expectation vs Reality](./4686175e-9516-419b-b071-00b98a6cf753.png)
+![Expectation vs Reality](./espectativa-vs-realidad.png)
 
 ## 🧠 Sobre mí
 
